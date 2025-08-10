@@ -1,0 +1,9 @@
+requirements
+
+streamlit
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+pmdarima
