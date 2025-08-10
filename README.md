@@ -24,13 +24,17 @@ It supports CSV files with mixed date formats and provides seasonal decompositio
   ```bash
   pip install streamlit pandas matplotlib seaborn statsmodels scikit-learn pmdarima
 ~Run the app
+
 From the project directory, run:
 streamlit run app.py
+
 ~Access the app
+
 Open your browser and go to:
 [http://localhost:8501](https://sales-forecasting-app-at9el2ekqcikaqepdc6bt9.streamlit.app/)
 
 Upload your sales CSV
+
 Your CSV file should have at least two columns:
 Date column (dates can be in mixed formats)
 Sales column (numeric sales data)
