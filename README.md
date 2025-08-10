@@ -23,10 +23,10 @@ It supports CSV files with mixed date formats and provides seasonal decompositio
 - Install dependencies:  
   ```bash
   pip install streamlit pandas matplotlib seaborn statsmodels scikit-learn pmdarima
-###Run the app
+~Run the app
 From the project directory, run:
 streamlit run app.py
-###Access the app
+~Access the app
 Open your browser and go to:
 [http://localhost:8501](https://sales-forecasting-app-at9el2ekqcikaqepdc6bt9.streamlit.app/)
 
