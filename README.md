@@ -31,7 +31,7 @@ Edit
 streamlit run app.py
 Access the app
 Open your browser and go to:
-http://localhost:8501
+[http://localhost:8501](https://sales-forecasting-app-at9el2ekqcikaqepdc6bt9.streamlit.app/)
 
 Upload your sales CSV
 Your CSV file should have at least two columns:
