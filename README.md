@@ -1,4 +1,4 @@
-# Sales Forecasting Engine with Mixed Date Format Support
+# Sales Forecasting Engine 
 
 This is a Streamlit app for sales forecasting using SARIMA models.  
 It supports CSV files with mixed date formats and provides seasonal decomposition and forecasts.
